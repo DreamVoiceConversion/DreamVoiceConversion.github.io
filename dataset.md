@@ -24,12 +24,6 @@ Voice timbre is shaped by a myriad of factors, including age, gender, physical p
 - **Annotator Profile**:
   - Total Annotators: 8 (4 females and 4 males)
   - Expertise: Speech pathology, accent coaching, singing coaching, transcription, and translation
-- **Keyword Analysis**:
-  - Agreement scores used to prioritize keywords
-  - Rigorous reassessment for moderately agreed keywords
-- **Data Enhancement**:
-  - Use of OpenAI's GPT4 for natural language descriptors
-  - Generation of descriptors based on keyword combinations
 
 You can find our sample survey page used for data collection here - [DreamVoiceDB Survey Link](https://sm7orzxyhu.cognition.run/)
 
@@ -77,6 +71,8 @@ Each keyword and descriptor plays a crucial role in accurately capturing and con
 - Use of OpenAI's GPT4 for natural language descriptors
 - Generation of descriptors based on all keyword combinations
 
+
+Generated Descriptors Examples:
 
 | Speaker ID | WAV File        | Keywords              | Prompt                                              |
 |------------|-----------------|-----------------------|-----------------------------------------------------|
