@@ -21,8 +21,8 @@
 
 ## 🔗 Important Links
 
-- ### 😊 Models and Checkpoints: [DreamVC and DreamVG (to be released)](#add-your-repository-link-here)
-- ### 💻 Details About the Dataset: [DreamVoiceDB: Voice Timbre Dataset (Available!)](dataset.md)
+- ### 😊 Models and Checkpoints: [DreamVC and DreamVG](#add-your-repository-link-here) (to be released after decision)
+- ### 💻 Details About the Dataset: [DreamVoiceDB: Voice Timbre Dataset](dataset.md) (now available)
 
 ## 🎙️ Samples
 
