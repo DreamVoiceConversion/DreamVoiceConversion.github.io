@@ -18,10 +18,11 @@
   - `s` is the speaker embedding of the target voice. 
   - `m` is the mel-spectrogram. 
   - `m_t` and `s_t` represent the noisy versions of the mel-spectrogram and the speaker embedding at the diffusion step `t`.
+
 ## 🔗 Important Links
 
-- #### 😊 Models and Checkpoints: [Open Source Code [to be released]](#add-your-repository-link-here)
-- #### 📚Details About the Dataset: [DreamVoiceDB: Voice Timbre Dataset](dataset.md)
+- ### 😊 Models and Checkpoints: [Open Source Code [to be released]](#add-your-repository-link-here)
+- ### 💻 Details About the Dataset: [DreamVoiceDB: Voice Timbre Dataset](dataset.md)
 
 ## 🎙️ Samples
 
